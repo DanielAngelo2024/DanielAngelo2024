@@ -1,14 +1,14 @@
 -  🇧🇷
 - 👋 Oi, meu nome é Daniel Ângelo.
 - 👀 Estou interessado em Game Dev e desenvolvimento Back-End.
-- 🌱 Esou atualmente aprendendo C++, python com chat bot e C#.
+- 🌱 Esou atualmente aprendendo C++, python com chat bot para uma disciplina da faculdade e C#.
 - 💞️ Pensando em colaborar em algum projeto de código aberto.
 - 📫 Me siga no linkedin.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 -  🇺🇸
 - 👋 Hi, my name is Daniel Ângelo.
 - 👀 I'm interessted in Game Dev and Back-End development.
-- 🌱 Esou atualmente aprendendo C++ in the college, python to make a chat bot for a discipline in college and C#.
+- 🌱 I'm leaning C++ in the college, python to make a chat bot for a discipline in college and C#.
 - 💞️ Thinking to collaborate in a open source project.
 - 📫 Follow me on linkedin.
 <!---
