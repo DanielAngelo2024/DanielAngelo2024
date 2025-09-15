@@ -1,13 +1,13 @@
 -  🇺🇸
-- 👋 Hi, my name is Daniel Ângelo.
+- 👋 Hi, my name is Daniel Ângelo
 - 🧠 I have Knowledge of C++, Python for chatbot, requirements engineering and agile methods.
-- 🌱 I'm leaning C# and Java EE in the university.
+- 🌱 I'm leaning Software Engineering, C# and Java EE in the university.
 - 📫 Follow me on linkedin.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 -  🇧🇷
 - 👋 Oi, meu nome é Daniel Ângelo.
 - 🧠 Tenho Conhecimento em C++, Python para chatbot, engenharia de requisitos e métodos ágeis.
-- 🌱 Esou atualmente aprendendo C# e Java EE na faculdade.
+- 🌱 Esou atualmente aprendendo Engenharia de Software, C# e Java EE na faculdade.
 - 📫 Me siga no linkedin.
 
 <!---
